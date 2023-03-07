@@ -1,0 +1,4 @@
+Approach:
+As we all know that in BST , all the elements to left of the root must be less and right must be greater than root.
+>>>>>>>so we find the Largest element of left tree of the root node and Smallest element of the right tree of the root so that we can to check if it 
+       satisfies the above condition
